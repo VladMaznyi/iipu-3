@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\bin\Debug\Battery.exe.config
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\bin\Debug\Battery.exe
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\bin\Debug\Battery.pdb
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\obj\Debug\Battery.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\obj\Debug\Battery.Form1.resources
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\obj\Debug\Battery.Properties.Resources.resources
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\obj\Debug\Battery.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\obj\Debug\Battery.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\obj\Debug\Battery.exe
+C:\Users\User\Desktop\Лабыпоиипу\IaPD-labs-master\Battery\Battery\obj\Debug\Battery.pdb
